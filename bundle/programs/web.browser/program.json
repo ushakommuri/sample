@@ -1,0 +1,1955 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "7baf556de44a5b84d3ddc77a279feca09f0681d6.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/7baf556de44a5b84d3ddc77a279feca09f0681d6.js",
+      "size": 3262699,
+      "hash": "7baf556de44a5b84d3ddc77a279feca09f0681d6"
+    },
+    {
+      "path": "a310c291cc35cd97e1542844391a4634bef217ce.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a310c291cc35cd97e1542844391a4634bef217ce.css?meteor_css_resource=true",
+      "size": 395593,
+      "hash": "a310c291cc35cd97e1542844391a4634bef217ce"
+    },
+    {
+      "path": "packages/loftsteinn_intl-tel-input/lib/intl-tel-input/build/img/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/loftsteinn_intl-tel-input/lib/intl-tel-input/build/img/flags.png",
+      "size": 66171,
+      "hash": "ab964a181f0bd0986b80afdbe1ce75f22d0017c2"
+    },
+    {
+      "path": "packages/loftsteinn_intl-tel-input/lib/intl-tel-input/build/img/flags@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/loftsteinn_intl-tel-input/lib/intl-tel-input/build/img/flags@2x.png",
+      "size": 188814,
+      "hash": "54f30dc0805d90aa853e86ff65543e86fbacbdcd"
+    },
+    {
+      "path": "app/03.Zigatta-CreateJobStep03.jpg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/03.Zigatta-CreateJobStep03.jpg",
+      "size": 181154,
+      "hash": "15475a8a49e55e605828694b0464de2014b8ed59"
+    },
+    {
+      "path": "app/Text_preview.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/Text_preview.png",
+      "size": 1399,
+      "hash": "b5d93c5aed87ea3b1baf6b1e33b802a915fa4134"
+    },
+    {
+      "path": "app/bg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/bg.png",
+      "size": 1472,
+      "hash": "6c37d4221bf5f5e6c5d3d8b3440ff4d2e3285a41"
+    },
+    {
+      "path": "app/candidate1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/candidate1.png",
+      "size": 3334,
+      "hash": "5266102cd157757b20df40ec2a128764d4f24fea"
+    },
+    {
+      "path": "app/closeicon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/closeicon.png",
+      "size": 1018,
+      "hash": "40303147d054405fa5e5be5955831ee8421e0c0a"
+    },
+    {
+      "path": "app/collection.js",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/collection.js",
+      "size": 2305,
+      "hash": "cd3ea659f089540b0950cdc792e79b0391d077d8"
+    },
+    {
+      "path": "app/edit.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/edit.png",
+      "size": 591,
+      "hash": "b2816c79694e61205e1934f3bd5fa9133336ab19"
+    },
+    {
+      "path": "app/icon-no_of_jobs.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icon-no_of_jobs.png",
+      "size": 714,
+      "hash": "a1223d4fa9dcb76b143572d137be8da4646ada1f"
+    },
+    {
+      "path": "app/icon-view_candidate.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icon-view_candidate.png",
+      "size": 487,
+      "hash": "5a770a89ef9342872b31dde00d6f90b4f880adb0"
+    },
+    {
+      "path": "app/zigatta.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/zigatta.png",
+      "size": 739,
+      "hash": "1ff6fcff10b8446af07b63359e95a0d33e090fc0"
+    },
+    {
+      "path": "app/fonts/FontAwesome.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/FontAwesome.otf",
+      "size": 106260,
+      "hash": "0112e96f327d413938d37c1693806f468ffdbace"
+    },
+    {
+      "path": "app/fonts/Lato-Black.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Black.ttf",
+      "size": 614544,
+      "hash": "b9c952639741f5b7479e1ff6d1561a3df7e8f83a"
+    },
+    {
+      "path": "app/fonts/Lato-BlackItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-BlackItalic.ttf",
+      "size": 672480,
+      "hash": "4bde1231ff7afccfdf4f77f086c0e9a93a4f3e46"
+    },
+    {
+      "path": "app/fonts/Lato-Bold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Bold.ttf",
+      "size": 657188,
+      "hash": "6b2c7b124cbf0aaeba48d57fb0fa19f2c6c69683"
+    },
+    {
+      "path": "app/fonts/Lato-BoldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-BoldItalic.ttf",
+      "size": 699008,
+      "hash": "bf9e7d4a6185b53a256272869e66762c1e5d503b"
+    },
+    {
+      "path": "app/fonts/Lato-Hairline.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Hairline.ttf",
+      "size": 584784,
+      "hash": "79c1dd6a9c740ef36272a9742504864a6f912be7"
+    },
+    {
+      "path": "app/fonts/Lato-HairlineItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-HairlineItalic.ttf",
+      "size": 609436,
+      "hash": "ea271649cc2f58a61fc819c9ca82eb8724717a2f"
+    },
+    {
+      "path": "app/fonts/Lato-Heavy.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Heavy.ttf",
+      "size": 665420,
+      "hash": "068af974d1346b61d9ee1e097374f2f3cac6c442"
+    },
+    {
+      "path": "app/fonts/Lato-HeavyItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-HeavyItalic.ttf",
+      "size": 698924,
+      "hash": "f2d4047e1f5efd405b850abe23ccfdc2ceb1b3f8"
+    },
+    {
+      "path": "app/fonts/Lato-Italic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Italic.ttf",
+      "size": 723544,
+      "hash": "63c5d4424bc3466477be05dc122799df7665e571"
+    },
+    {
+      "path": "app/fonts/Lato-Light.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Light.ttf",
+      "size": 644556,
+      "hash": "a405c8288a8a90881407f93b6ee02b29e26a8735"
+    },
+    {
+      "path": "app/fonts/Lato-LightItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-LightItalic.ttf",
+      "size": 658212,
+      "hash": "f05f3b58c5abd991036a1b43bd601556244ffe9e"
+    },
+    {
+      "path": "app/fonts/Lato-Medium.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Medium.ttf",
+      "size": 637068,
+      "hash": "c78e94b7cc0b782eef4f9f2be371c3cf9c3f6eaf"
+    },
+    {
+      "path": "app/fonts/Lato-MediumItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-MediumItalic.ttf",
+      "size": 695588,
+      "hash": "df1a7160502d9e90c41b92b7243270a769904786"
+    },
+    {
+      "path": "app/fonts/Lato-Regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Regular.ttf",
+      "size": 657212,
+      "hash": "f59f9e4f3cbee981a5e6f58a279f9b9613f22599"
+    },
+    {
+      "path": "app/fonts/Lato-Semibold.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Semibold.ttf",
+      "size": 669228,
+      "hash": "96569e2cfcc3a298bb1aea21103d0d1e3c7e2ed4"
+    },
+    {
+      "path": "app/fonts/Lato-SemiboldItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-SemiboldItalic.ttf",
+      "size": 698028,
+      "hash": "8a34fbb379a096d4c5914a962a6f71e1721b40a7"
+    },
+    {
+      "path": "app/fonts/Lato-Thin.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-Thin.ttf",
+      "size": 627220,
+      "hash": "dbe1f622faef3ea3f286d848da6b10f104405060"
+    },
+    {
+      "path": "app/fonts/Lato-ThinItalic.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/Lato-ThinItalic.ttf",
+      "size": 654216,
+      "hash": "8ce23025cf59e58b9bafdd8526d685d8347267c7"
+    },
+    {
+      "path": "app/fonts/OFL.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/OFL.txt",
+      "size": 4494,
+      "hash": "13f1745b59af2b2754a2107aa6af2c94ab298c82"
+    },
+    {
+      "path": "app/fonts/README.txt",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/README.txt",
+      "size": 3311,
+      "hash": "f1b63c819f5d5cbe3a9ed852d8de9037491cc1fc"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.eot",
+      "size": 68875,
+      "hash": "b3c2f08e73320135b69c23a3908b87a12053a2f6"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.svg",
+      "size": 355981,
+      "hash": "2b3c8ba7008cc014d8fb37abc6f9f49aeda83824"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.ttf",
+      "size": 138204,
+      "hash": "27cf1f2ec59aece6938c7bb2feb0e287ea778ff9"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.woff",
+      "size": 81284,
+      "hash": "507970402e328b2baeb05bde73bf9ded4e2c3a2d"
+    },
+    {
+      "path": "app/fonts/fontawesome-webfont.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/fontawesome-webfont.woff2",
+      "size": 64464,
+      "hash": "574ea2698c03ae9477db2ea3baf460ee32f1a7ea"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.eot",
+      "size": 14079,
+      "hash": "d53dff38dfb5c414015dfb31d30a473c95b50904"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.svg",
+      "size": 63157,
+      "hash": "796e58aedfcfe8a3b0829bc0594f739936a9d7d0"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.ttf",
+      "size": 29512,
+      "hash": "c427041d38cd6597ae7e758028ab72756849ec26"
+    },
+    {
+      "path": "app/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/fonts/glyphicons-halflings-regular.woff",
+      "size": 16448,
+      "hash": "c707207e52ffe555a36880e9873d146c226e3533"
+    },
+    {
+      "path": "app/icons/icon-add_candidate.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-add_candidate.png",
+      "size": 393,
+      "hash": "a0db1202deafff67940fc25cb215517305bfc8cc"
+    },
+    {
+      "path": "app/icons/icon-close_old.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-close_old.png",
+      "size": 295,
+      "hash": "d6d0bc6557054d6b7f9f5793102533240bc448a2"
+    },
+    {
+      "path": "app/icons/icon-edit_job.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-edit_job.png",
+      "size": 334,
+      "hash": "b99f9ae3fe2ff4aa4cb77973eff7dd80f3d42362"
+    },
+    {
+      "path": "app/icons/icon-job-offered.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-job-offered.png",
+      "size": 1463,
+      "hash": "d5269b994cb090309829c449855fd22974150014"
+    },
+    {
+      "path": "app/icons/icon-job-rejected.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-job-rejected.png",
+      "size": 1608,
+      "hash": "f2c8837b22aada556334778026544784a22e6814"
+    },
+    {
+      "path": "app/icons/icon-next.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-next.png",
+      "size": 233,
+      "hash": "b301feb767a4d6ca750883b4eb1a1a292d9b1242"
+    },
+    {
+      "path": "app/icons/icon-no_of_jobs.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-no_of_jobs.png",
+      "size": 714,
+      "hash": "a1223d4fa9dcb76b143572d137be8da4646ada1f"
+    },
+    {
+      "path": "app/icons/icon-not-shortlisted.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-not-shortlisted.png",
+      "size": 1369,
+      "hash": "2684f0c794ec76fa6f62fe7a467c4f62e811f2e1"
+    },
+    {
+      "path": "app/icons/icon-prev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-prev.png",
+      "size": 235,
+      "hash": "026360ff88064ee789ce5d77ed34d6f1ed956a85"
+    },
+    {
+      "path": "app/icons/icon-preview.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-preview.png",
+      "size": 474,
+      "hash": "25740a0c3db100d6616d5db0283e68bce3f0379c"
+    },
+    {
+      "path": "app/icons/icon-shortlisted.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/icons/icon-shortlisted.png",
+      "size": 1355,
+      "hash": "75c1a7cdd683503a09ddbae93397b42faf2c1cc7"
+    },
+    {
+      "path": "app/iconshome/icon-Get-notified-on-matching-orders.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-Get-notified-on-matching-orders.png",
+      "size": 12195,
+      "hash": "c9452a07fe1c1c6f1fa3a8330df2d6ff90d3b716"
+    },
+    {
+      "path": "app/iconshome/icon-Get-paid.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-Get-paid.png",
+      "size": 14040,
+      "hash": "c25f34fb2b39f36f602aa50d5caf774285f367d7"
+    },
+    {
+      "path": "app/iconshome/icon-create-Profile.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-create-Profile.png",
+      "size": 5577,
+      "hash": "47b54175e1da6d8e7c7b1c4510940aa9e94c9b88"
+    },
+    {
+      "path": "app/iconshome/icon-create-a-job-order.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-create-a-job-order.png",
+      "size": 5431,
+      "hash": "f41023d066847c920cae5970c8f7036e2a019af2"
+    },
+    {
+      "path": "app/iconshome/icon-expertise.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-expertise.png",
+      "size": 11643,
+      "hash": "e508190ec03a038fd920289164007698b5df7c7e"
+    },
+    {
+      "path": "app/iconshome/icon-receive-quality--referrals.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-receive-quality--referrals.png",
+      "size": 8338,
+      "hash": "b9d770a9f14fe36441ab90c7acfcd8257b06a843"
+    },
+    {
+      "path": "app/iconshome/icon-review-and-select.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-review-and-select.png",
+      "size": 9389,
+      "hash": "d1a4e15d1ea01c8545b8c6401c2214bef32527c1"
+    },
+    {
+      "path": "app/iconshome/icon-submit-candidate.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/iconshome/icon-submit-candidate.png",
+      "size": 6139,
+      "hash": "148d1e0fe64b5f53791280e256d1bb99f78e3949"
+    },
+    {
+      "path": "app/images/11_1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/11_1.png",
+      "size": 2913,
+      "hash": "64a9bf9f6945a5b0a204d147017f3de52dabc7f5"
+    },
+    {
+      "path": "app/images/11_2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/11_2.png",
+      "size": 9396,
+      "hash": "d2e4f11e5101c24769abd276f9a9239a753a417d"
+    },
+    {
+      "path": "app/images/11_3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/11_3.png",
+      "size": 9177,
+      "hash": "b20d3c4a12d5a00dbde190f6af078c2cdb2c2d57"
+    },
+    {
+      "path": "app/images/11_4.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/11_4.png",
+      "size": 18961,
+      "hash": "56d46462dc0e85fee0d421ee1a091b958a777967"
+    },
+    {
+      "path": "app/images/11_5.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/11_5.png",
+      "size": 20645,
+      "hash": "a840545d4f05320a9d7a4714ba0c19dbebc8b145"
+    },
+    {
+      "path": "app/images/Icon-1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Icon-1.png",
+      "size": 2848,
+      "hash": "78d8129883a41240d50214344fd85da90a7d5813"
+    },
+    {
+      "path": "app/images/Icon-2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Icon-2.png",
+      "size": 3996,
+      "hash": "d2ee2784746ff20c2c6cd7d2bf217a0a9230cc0b"
+    },
+    {
+      "path": "app/images/Icon-3.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Icon-3.png",
+      "size": 3037,
+      "hash": "99bf9336b2ac678498538a2be467e22ab56be0c8"
+    },
+    {
+      "path": "app/images/Image-02.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Image-02.png",
+      "size": 126553,
+      "hash": "8af4bc4c8113395930a352f9eb2d77517c32a725"
+    },
+    {
+      "path": "app/images/Image-03.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Image-03.png",
+      "size": 158429,
+      "hash": "e326a607170d6abf5d165444917d13f7627fecfb"
+    },
+    {
+      "path": "app/images/Image01.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Image01.png",
+      "size": 131908,
+      "hash": "d74af0318cc6eb7670cdd974ca625f429325ea1d"
+    },
+    {
+      "path": "app/images/Text_preview.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/Text_preview.png",
+      "size": 1399,
+      "hash": "b5d93c5aed87ea3b1baf6b1e33b802a915fa4134"
+    },
+    {
+      "path": "app/images/bg-login.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/bg-login.png",
+      "size": 783476,
+      "hash": "8db4f7a8a3eea3165ed9c6086fef027bd5289f4d"
+    },
+    {
+      "path": "app/images/bg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/bg.png",
+      "size": 1472,
+      "hash": "6c37d4221bf5f5e6c5d3d8b3440ff4d2e3285a41"
+    },
+    {
+      "path": "app/images/candidate1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/candidate1.png",
+      "size": 3334,
+      "hash": "5266102cd157757b20df40ec2a128764d4f24fea"
+    },
+    {
+      "path": "app/images/closeicon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/closeicon.png",
+      "size": 1018,
+      "hash": "40303147d054405fa5e5be5955831ee8421e0c0a"
+    },
+    {
+      "path": "app/images/edit.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/edit.png",
+      "size": 591,
+      "hash": "b2816c79694e61205e1934f3bd5fa9133336ab19"
+    },
+    {
+      "path": "app/images/f.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/f.png",
+      "size": 1679,
+      "hash": "ababc149a1a6c4269603022f3112603958bc112a"
+    },
+    {
+      "path": "app/images/icon-no_of_jobs.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icon-no_of_jobs.png",
+      "size": 714,
+      "hash": "a1223d4fa9dcb76b143572d137be8da4646ada1f"
+    },
+    {
+      "path": "app/images/in.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/in.png",
+      "size": 1925,
+      "hash": "d45581632d19438bd4b239f8390a5a0b32e0c90c"
+    },
+    {
+      "path": "app/images/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo.png",
+      "size": 1785,
+      "hash": "6a81910a6d47c0712fc9ce97e6bcf78c77b6d20b"
+    },
+    {
+      "path": "app/images/logo_Z_zigatta_azul_transparente.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo_Z_zigatta_azul_transparente.png",
+      "size": 4531,
+      "hash": "dcf425c7c77f5cad3ef82ac24bf337fea6bf2692"
+    },
+    {
+      "path": "app/images/logo_Z_zigatta_azul_transparente_old.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/logo_Z_zigatta_azul_transparente_old.png",
+      "size": 4590,
+      "hash": "152e67264837cc98f895f8097ce28efb8cb358ba"
+    },
+    {
+      "path": "app/images/t.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/t.png",
+      "size": 2227,
+      "hash": "329edaeed3ac938a1db750559e70ebbbf94fa3e0"
+    },
+    {
+      "path": "app/images/zigatta.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/zigatta.png",
+      "size": 739,
+      "hash": "1ff6fcff10b8446af07b63359e95a0d33e090fc0"
+    },
+    {
+      "path": "app/img/active-users.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/active-users.png",
+      "size": 1757,
+      "hash": "7493bb32c7de697cc5840d50c6fbd7fa1d4ccba9"
+    },
+    {
+      "path": "app/img/add-a-listing-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/add-a-listing-icon.png",
+      "size": 12925,
+      "hash": "9de2877ed0d02f5f81b2b7e32eecc28d1f7bdd72"
+    },
+    {
+      "path": "app/img/add-a-listing-icon1.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/add-a-listing-icon1.png",
+      "size": 12261,
+      "hash": "f74332c48da75615f04cd80de8b43b5775ad36e7"
+    },
+    {
+      "path": "app/img/admin_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/admin_icon.png",
+      "size": 1604,
+      "hash": "53f4746ed87bc8a542257671fba4db5a0fe446c0"
+    },
+    {
+      "path": "app/img/admin_links_menu.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/admin_links_menu.png",
+      "size": 1039,
+      "hash": "32d77d8c64d33d2a24708972422c2beffa2333e8"
+    },
+    {
+      "path": "app/img/api_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/api_icon.png",
+      "size": 1820,
+      "hash": "00274e49b3f2d37e967ac331066159e644dbe1dd"
+    },
+    {
+      "path": "app/img/avathar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/avathar.png",
+      "size": 1023,
+      "hash": "4785dd60219182fa13431c4b84e0377e2f9e5d4e"
+    },
+    {
+      "path": "app/img/avathar1.jpeg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/avathar1.jpeg",
+      "size": 2046,
+      "hash": "e538eff0a2241330805ac5a095d627642b79caaa"
+    },
+    {
+      "path": "app/img/cp.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/cp.png",
+      "size": 300,
+      "hash": "3577ec62a5a1c4d222840c96ca87125192ef7a52"
+    },
+    {
+      "path": "app/img/create_user_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/create_user_icon.png",
+      "size": 1393,
+      "hash": "0eeef9dd14c021c9849a19c66d10f729b83f3e23"
+    },
+    {
+      "path": "app/img/dashboard_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/dashboard_icon.png",
+      "size": 1897,
+      "hash": "0712c735ba1e702f5fc884fdd99632a8f765dcb1"
+    },
+    {
+      "path": "app/img/datd-correction.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/datd-correction.png",
+      "size": 1334,
+      "hash": "f64a87f12f968b135ecf64e268549f12efc8af73"
+    },
+    {
+      "path": "app/img/delete_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/delete_icon.png",
+      "size": 1278,
+      "hash": "400c6ae763c031a421668187626064a34d8d07aa"
+    },
+    {
+      "path": "app/img/edit_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/edit_icon.png",
+      "size": 1357,
+      "hash": "3e5e89e900d5b3adee02c6d4e538f0105fbf57d1"
+    },
+    {
+      "path": "app/img/families.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/families.png",
+      "size": 2359,
+      "hash": "bbc222e4b3ab5c7736782c43e38e2343fe271604"
+    },
+    {
+      "path": "app/img/flags.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/flags.png",
+      "size": 66171,
+      "hash": "ab964a181f0bd0986b80afdbe1ce75f22d0017c2"
+    },
+    {
+      "path": "app/img/flags@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/flags@2x.png",
+      "size": 188814,
+      "hash": "54f30dc0805d90aa853e86ff65543e86fbacbdcd"
+    },
+    {
+      "path": "app/img/get-help-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/get-help-icon.png",
+      "size": 5878,
+      "hash": "5782a64e4775ceeb64b435861d36ea6e33f27771"
+    },
+    {
+      "path": "app/img/inquires.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/inquires.png",
+      "size": 4485,
+      "hash": "427d11c11279f7855e8e175cf65896057ec24d65"
+    },
+    {
+      "path": "app/img/left_arrow_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/left_arrow_icon.png",
+      "size": 1079,
+      "hash": "31fdf65cd7a6cb8db09a6a1f46b818ae6a26a532"
+    },
+    {
+      "path": "app/img/left_menu_btn_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/left_menu_btn_icon.png",
+      "size": 1060,
+      "hash": "25ae9cf5a56988d6a71cb1d14e7ef165b87f9eaf"
+    },
+    {
+      "path": "app/img/listing.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/listing.png",
+      "size": 2089,
+      "hash": "6cf89e39c116f3bec0e718a4c449cc7c672b1aee"
+    },
+    {
+      "path": "app/img/loading.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading.gif",
+      "size": 8920,
+      "hash": "7d1c2b75e3851b27d124d22ac83558e2b8bd0e92"
+    },
+    {
+      "path": "app/img/loading1.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading1.gif",
+      "size": 27507,
+      "hash": "9abddf0361c2344e79f793f562b84887fe0f2b5e"
+    },
+    {
+      "path": "app/img/loadingimage.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loadingimage.gif",
+      "size": 38539,
+      "hash": "28901f54f110746460f6a0193801206f4ea0b900"
+    },
+    {
+      "path": "app/img/loadingimage1.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loadingimage1.gif",
+      "size": 46195,
+      "hash": "6311d434d9f01e8e9092b390f700e452d2802c3b"
+    },
+    {
+      "path": "app/img/location.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/location.png",
+      "size": 2052,
+      "hash": "aee858e3bacb8a4e52f7095db36ca7769d8dd774"
+    },
+    {
+      "path": "app/img/locations.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/locations.png",
+      "size": 1481,
+      "hash": "fa92a88c6a2a159d6818856cf62b0d6834f9012c"
+    },
+    {
+      "path": "app/img/logout_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logout_icon.png",
+      "size": 1634,
+      "hash": "e56e60fec6b3f77efe5828892937254a32946f8a"
+    },
+    {
+      "path": "app/img/materials.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/materials.png",
+      "size": 5707,
+      "hash": "2201e00aa48cdb4494c3a4a50cc1a36049f1fa1f"
+    },
+    {
+      "path": "app/img/preloader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/preloader.gif",
+      "size": 23941,
+      "hash": "33579b96d64912e3161ac645228e4cbede4e0f1d"
+    },
+    {
+      "path": "app/img/preloader1.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/preloader1.gif",
+      "size": 25437,
+      "hash": "c3a036a966cf99efc2edefaf44c9a583f7c9def5"
+    },
+    {
+      "path": "app/img/programs.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/programs.png",
+      "size": 1840,
+      "hash": "35ebf65dee5d6f56f8dbdea85f70af60fea07ae4"
+    },
+    {
+      "path": "app/img/right_arrow.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/right_arrow.png",
+      "size": 1044,
+      "hash": "f379110913eb6d9a170e524919495eb3c67522d6"
+    },
+    {
+      "path": "app/img/right_arrow_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/right_arrow_icon.png",
+      "size": 1081,
+      "hash": "7e5c5f4f0ebd599dea5efb50f8ec4ebf38cb223e"
+    },
+    {
+      "path": "app/img/search_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/search_icon.png",
+      "size": 1251,
+      "hash": "8a80a583f5163b0c999aa4360156644b11c17d47"
+    },
+    {
+      "path": "app/img/star-off.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/star-off.svg",
+      "size": 245,
+      "hash": "553054f36b0e2dc09872ef57b15e79a39c655185"
+    },
+    {
+      "path": "app/img/star-on.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/star-on.svg",
+      "size": 245,
+      "hash": "532c93cb72e699e3281610d296948770931d08f3"
+    },
+    {
+      "path": "app/img/user_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/user_icon.png",
+      "size": 1291,
+      "hash": "173e5762203b44c39be21d37cdd19c41230b2f7a"
+    },
+    {
+      "path": "app/img/view-my-listings-icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/view-my-listings-icon.png",
+      "size": 5448,
+      "hash": "957a2c74a9ac2f7d197d3b5f5134d9404623abb6"
+    },
+    {
+      "path": "app/img/view_more_icon.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/view_more_icon.png",
+      "size": 1232,
+      "hash": "e701a3354522be43a73a54b88c923f3268fe7a61"
+    },
+    {
+      "path": "app/img/waiting.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/waiting.gif",
+      "size": 30173,
+      "hash": "a4ba2d15516f3265cad820681c49b55c39a8e6b0"
+    },
+    {
+      "path": "app/img/wmds.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/wmds.png",
+      "size": 1763,
+      "hash": "7952363ca01e08293e7e6554f7726b3a8ae87119"
+    },
+    {
+      "path": "app/images/icons/candidates_recruiter_count.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/candidates_recruiter_count.png",
+      "size": 1236,
+      "hash": "a461b9270e70d614f3411404599a2b9db4dde504"
+    },
+    {
+      "path": "app/images/icons/icon-add_candidate.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-add_candidate.png",
+      "size": 393,
+      "hash": "a0db1202deafff67940fc25cb215517305bfc8cc"
+    },
+    {
+      "path": "app/images/icons/icon-close.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-close.png",
+      "size": 295,
+      "hash": "d6d0bc6557054d6b7f9f5793102533240bc448a2"
+    },
+    {
+      "path": "app/images/icons/icon-edit_job.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-edit_job.png",
+      "size": 334,
+      "hash": "b99f9ae3fe2ff4aa4cb77973eff7dd80f3d42362"
+    },
+    {
+      "path": "app/images/icons/icon-next.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-next.png",
+      "size": 233,
+      "hash": "b301feb767a4d6ca750883b4eb1a1a292d9b1242"
+    },
+    {
+      "path": "app/images/icons/icon-no_of_jobs.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-no_of_jobs.png",
+      "size": 714,
+      "hash": "a1223d4fa9dcb76b143572d137be8da4646ada1f"
+    },
+    {
+      "path": "app/images/icons/icon-prev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-prev.png",
+      "size": 235,
+      "hash": "026360ff88064ee789ce5d77ed34d6f1ed956a85"
+    },
+    {
+      "path": "app/images/icons/icon-preview.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-preview.png",
+      "size": 474,
+      "hash": "25740a0c3db100d6616d5db0283e68bce3f0379c"
+    },
+    {
+      "path": "app/images/icons/icon-view_candidate.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/icons/icon-view_candidate.png",
+      "size": 487,
+      "hash": "5a770a89ef9342872b31dde00d6f90b4f880adb0"
+    },
+    {
+      "path": "app/prettyPhoto/dark_rounded/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_rounded/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/prettyPhoto/dark_rounded/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_rounded/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/prettyPhoto/dark_rounded/contentPattern.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_rounded/contentPattern.png",
+      "size": 130,
+      "hash": "1ea305fa19e1071dec6bc59bfe772330fa1025f9"
+    },
+    {
+      "path": "app/prettyPhoto/dark_rounded/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_rounded/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/prettyPhoto/dark_rounded/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_rounded/loader.gif",
+      "size": 2545,
+      "hash": "2e0eddea4a764ba0a1f9903db38542a795547f3c"
+    },
+    {
+      "path": "app/prettyPhoto/dark_rounded/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_rounded/sprite.png",
+      "size": 4076,
+      "hash": "80c2a4c6fafff09355798db6e751436e2de62197"
+    },
+    {
+      "path": "app/prettyPhoto/dark_square/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_square/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/prettyPhoto/dark_square/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_square/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/prettyPhoto/dark_square/contentPattern.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_square/contentPattern.png",
+      "size": 121,
+      "hash": "48fa248fcba763c2d11654b0643673962c3927aa"
+    },
+    {
+      "path": "app/prettyPhoto/dark_square/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_square/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/prettyPhoto/dark_square/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_square/loader.gif",
+      "size": 2545,
+      "hash": "2e0eddea4a764ba0a1f9903db38542a795547f3c"
+    },
+    {
+      "path": "app/prettyPhoto/dark_square/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/dark_square/sprite.png",
+      "size": 3507,
+      "hash": "1da373e3db998fa1a7ef9ad0acc802949b1fe190"
+    },
+    {
+      "path": "app/prettyPhoto/default/default_thumb.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/default_thumb.png",
+      "size": 1537,
+      "hash": "bb6969321f5d03b674519d1e23787fb92c1879be"
+    },
+    {
+      "path": "app/prettyPhoto/default/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/loader.gif",
+      "size": 6331,
+      "hash": "03c266a8832f3255fac90815b032991828cae503"
+    },
+    {
+      "path": "app/prettyPhoto/default/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/sprite.png",
+      "size": 6682,
+      "hash": "f0f45ce2b45eca186bb02f479df5128e0cc99c48"
+    },
+    {
+      "path": "app/prettyPhoto/default/sprite_next.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/sprite_next.png",
+      "size": 1358,
+      "hash": "c0b4df8748071dd78c9715c3c3a3ab72a6d914bc"
+    },
+    {
+      "path": "app/prettyPhoto/default/sprite_prev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/sprite_prev.png",
+      "size": 1376,
+      "hash": "2bd1c91d22805db7e36176439da03f8167b19753"
+    },
+    {
+      "path": "app/prettyPhoto/default/sprite_x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/sprite_x.png",
+      "size": 1097,
+      "hash": "0c24cb2fc5f9b4ee3e6529925d8d714acd153b00"
+    },
+    {
+      "path": "app/prettyPhoto/default/sprite_y.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/default/sprite_y.png",
+      "size": 1162,
+      "hash": "746411ef61f8d94ad7874f230379ddd6933ab335"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/btnNext.png",
+      "size": 845,
+      "hash": "10f709273c5ca5631df2e676f46eb1623b433b7f"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/btnPrevious.png",
+      "size": 828,
+      "hash": "910e491867242ae45ac7e3e670f8f3911ccd23ca"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/contentPatternBottom.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/contentPatternBottom.png",
+      "size": 142,
+      "hash": "1fb515ae27f5202449663f9be6b5ea7094a4dad0"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/contentPatternLeft.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/contentPatternLeft.png",
+      "size": 137,
+      "hash": "a9891643f551233c3f230eaa5836e9fa7426d128"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/contentPatternRight.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/contentPatternRight.png",
+      "size": 136,
+      "hash": "a4ab4b832b155068c3df28dc9894b725cac83228"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/contentPatternTop.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/contentPatternTop.png",
+      "size": 142,
+      "hash": "bd82394085b160314184d610a7106c0557922df4"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/loader.gif",
+      "size": 2545,
+      "hash": "1e0d02a9dd841f94d68bc0a1da91f858ac9874d7"
+    },
+    {
+      "path": "app/prettyPhoto/facebook/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/facebook/sprite.png",
+      "size": 4227,
+      "hash": "2cbd5b75fae344c3a7cd56f6e02039b54778fcad"
+    },
+    {
+      "path": "app/prettyPhoto/light_rounded/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_rounded/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/prettyPhoto/light_rounded/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_rounded/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/prettyPhoto/light_rounded/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_rounded/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/prettyPhoto/light_rounded/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_rounded/loader.gif",
+      "size": 2545,
+      "hash": "1e0d02a9dd841f94d68bc0a1da91f858ac9874d7"
+    },
+    {
+      "path": "app/prettyPhoto/light_rounded/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_rounded/sprite.png",
+      "size": 4099,
+      "hash": "df13d61fdc19689240d4cc34e1e2f44baff4e214"
+    },
+    {
+      "path": "app/prettyPhoto/light_square/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_square/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/prettyPhoto/light_square/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_square/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/prettyPhoto/light_square/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_square/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/prettyPhoto/light_square/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_square/loader.gif",
+      "size": 2545,
+      "hash": "1e0d02a9dd841f94d68bc0a1da91f858ac9874d7"
+    },
+    {
+      "path": "app/prettyPhoto/light_square/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/prettyPhoto/light_square/sprite.png",
+      "size": 3507,
+      "hash": "1da373e3db998fa1a7ef9ad0acc802949b1fe190"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_rounded/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_rounded/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_rounded/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_rounded/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_rounded/contentPattern.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_rounded/contentPattern.png",
+      "size": 130,
+      "hash": "1ea305fa19e1071dec6bc59bfe772330fa1025f9"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_rounded/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_rounded/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_rounded/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_rounded/loader.gif",
+      "size": 2545,
+      "hash": "2e0eddea4a764ba0a1f9903db38542a795547f3c"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_rounded/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_rounded/sprite.png",
+      "size": 4076,
+      "hash": "80c2a4c6fafff09355798db6e751436e2de62197"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_square/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_square/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_square/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_square/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_square/contentPattern.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_square/contentPattern.png",
+      "size": 121,
+      "hash": "48fa248fcba763c2d11654b0643673962c3927aa"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_square/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_square/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_square/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_square/loader.gif",
+      "size": 2545,
+      "hash": "2e0eddea4a764ba0a1f9903db38542a795547f3c"
+    },
+    {
+      "path": "app/images/prettyPhoto/dark_square/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/dark_square/sprite.png",
+      "size": 3507,
+      "hash": "1da373e3db998fa1a7ef9ad0acc802949b1fe190"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/default_thumb.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/default_thumb.png",
+      "size": 1537,
+      "hash": "bb6969321f5d03b674519d1e23787fb92c1879be"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/loader.gif",
+      "size": 6331,
+      "hash": "03c266a8832f3255fac90815b032991828cae503"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/sprite.png",
+      "size": 6682,
+      "hash": "f0f45ce2b45eca186bb02f479df5128e0cc99c48"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/sprite_next.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/sprite_next.png",
+      "size": 1358,
+      "hash": "c0b4df8748071dd78c9715c3c3a3ab72a6d914bc"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/sprite_prev.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/sprite_prev.png",
+      "size": 1376,
+      "hash": "2bd1c91d22805db7e36176439da03f8167b19753"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/sprite_x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/sprite_x.png",
+      "size": 1097,
+      "hash": "0c24cb2fc5f9b4ee3e6529925d8d714acd153b00"
+    },
+    {
+      "path": "app/images/prettyPhoto/default/sprite_y.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/default/sprite_y.png",
+      "size": 1162,
+      "hash": "746411ef61f8d94ad7874f230379ddd6933ab335"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/btnNext.png",
+      "size": 845,
+      "hash": "10f709273c5ca5631df2e676f46eb1623b433b7f"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/btnPrevious.png",
+      "size": 828,
+      "hash": "910e491867242ae45ac7e3e670f8f3911ccd23ca"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/contentPatternBottom.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/contentPatternBottom.png",
+      "size": 142,
+      "hash": "1fb515ae27f5202449663f9be6b5ea7094a4dad0"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/contentPatternLeft.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/contentPatternLeft.png",
+      "size": 137,
+      "hash": "a9891643f551233c3f230eaa5836e9fa7426d128"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/contentPatternRight.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/contentPatternRight.png",
+      "size": 136,
+      "hash": "a4ab4b832b155068c3df28dc9894b725cac83228"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/contentPatternTop.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/contentPatternTop.png",
+      "size": 142,
+      "hash": "bd82394085b160314184d610a7106c0557922df4"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/loader.gif",
+      "size": 2545,
+      "hash": "1e0d02a9dd841f94d68bc0a1da91f858ac9874d7"
+    },
+    {
+      "path": "app/images/prettyPhoto/facebook/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/facebook/sprite.png",
+      "size": 4227,
+      "hash": "2cbd5b75fae344c3a7cd56f6e02039b54778fcad"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_rounded/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_rounded/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_rounded/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_rounded/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_rounded/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_rounded/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_rounded/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_rounded/loader.gif",
+      "size": 2545,
+      "hash": "1e0d02a9dd841f94d68bc0a1da91f858ac9874d7"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_rounded/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_rounded/sprite.png",
+      "size": 4099,
+      "hash": "df13d61fdc19689240d4cc34e1e2f44baff4e214"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_square/btnNext.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_square/btnNext.png",
+      "size": 1411,
+      "hash": "8485b1846ba871a61d48dabd63a90ca49e47228a"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_square/btnPrevious.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_square/btnPrevious.png",
+      "size": 1442,
+      "hash": "3083b9a86df7fe936b715f0c528c11cfcb83e949"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_square/default_thumbnail.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_square/default_thumbnail.gif",
+      "size": 227,
+      "hash": "810fafa6cb3a32746db344ebb900bb0748bb0fcb"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_square/loader.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_square/loader.gif",
+      "size": 2545,
+      "hash": "1e0d02a9dd841f94d68bc0a1da91f858ac9874d7"
+    },
+    {
+      "path": "app/images/prettyPhoto/light_square/sprite.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/prettyPhoto/light_square/sprite.png",
+      "size": 3507,
+      "hash": "1da373e3db998fa1a7ef9ad0acc802949b1fe190"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "5911d3530f7b734338a15619e69e693401596609"
+    }
+  ]
+}
